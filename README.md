@@ -1,6 +1,6 @@
 # bunny-colony
 
-Program that simulates a colony of bunnies with a zombie infection.
+Program that simulates a colony of bunnies with a zombie infection, with all stats printed in four .txt files.
 The project is a version of the last exercise "Graduation" found here: https://cplusplus.com/forum/articles/12974/
 
 Still has some minor bugs and the code needs restructuring.
